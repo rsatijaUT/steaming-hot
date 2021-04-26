@@ -1,0 +1,3 @@
+[submodule "stead-data"]
+	path = stead-data
+	url = https://github.com/CraigKelly/steam-data.git
